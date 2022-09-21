@@ -33,7 +33,7 @@
 
 ## About Project:
 
-Flipkart is one of the most famous online shopping websites. In this project, I have cloned the Flipkart shopping website add-to-cart feature using angular, HTML, CSS, and, bootstrap technologies. To render products I have used an API from a [fake store]((https://fakestoreapi.com/products/)). Finally, I have deployed this application in this [URL](https://flipkart-add-to-cart-clone.vercel.app/products) using vercel.
+Flipkart is one of the most famous online shopping websites. In this project, I have cloned the Flipkart shopping website add-to-cart feature using angular, HTML, CSS, and, bootstrap technologies. To render products I have used an API from a [fake store](https://fakestoreapi.com/products/) website. Finally, I have deployed this application in this [URL](https://flipkart-add-to-cart-clone.vercel.app/products) using vercel.
 
 
 <div align="right">
