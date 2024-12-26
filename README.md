@@ -1,4 +1,4 @@
-<h1 align="center">Flipkart add to cart clone</h1> 
+<h1 align="center" id="flipkar">Flipkart add to cart clone</h1> 
 
 - ### Tech Stack used:
 	<center>
@@ -31,7 +31,7 @@
 					</td>
           <td width="25%" align="center">
 						<span><strong>Vercel</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
+						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Vercel.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -45,7 +45,7 @@ Flipkart is one of the most famous online shopping websites. In this project, I 
 
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#flipkar">↥ back to top</a></b>
 </div>
 
 
@@ -85,5 +85,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#flipkar">↥ back to top</a></b>
 </div>
